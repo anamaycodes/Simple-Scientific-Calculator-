@@ -1,0 +1,1 @@
+This is a simple scientific calculator which can we used to find vector, simple calculator opertaions, slope of line, To find determinent only 2X2 form, etc. If you want you can make changes in this code. Thank you.
