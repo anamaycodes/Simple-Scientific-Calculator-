@@ -1,0 +1,12 @@
+print("To find the addition of two vectors")
+print("The formula for vector addition is u +v =⟨u1+v1,u2+v2⟩")
+u1=int(input("Enter value of 'U1'"))
+u2=int(input("Enter the value of 'U2' "))
+v1=int(input("Enter the value of 'V1'"))
+v2=int(input("Enter the value of 'V2'"))
+print("Values you have entered are: ")
+print("u + v =",u1,"+",v1,"+",u2,"+",v2)
+z=u1+v1
+y=u2+v2
+print("The sum of two vector is (",z,",",y,")")
+exit()
