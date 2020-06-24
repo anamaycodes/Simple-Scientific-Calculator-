@@ -4,7 +4,7 @@ print("1)Simple Calculator:Addition,Subtraction,Multiplication,Division")
 print("2)To find determinent")
 print("3)To find Slope")
 print("4)To find Addition of two vector")
-print("5)Joint Equation of pair of line")
+print("5)To display Equation of line")
 print("6) To find greates number of two")
 lol=int(input())
 if lol==1:
