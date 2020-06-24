@@ -1,0 +1,11 @@
+print("To find the addition of slopes of two line by using the above formula:")
+print("m=Y2-Y1/X2-X1")
+y1=int(input("Enter the value of Y1 "))
+y2=int(input("Enter the value of Y2 "))
+x1=int(input("Enter the Value of X1 "))
+x2=int(input("Enter the value of x2 "))
+
+zion=y2-y1/x2-x1
+
+print("Slop of the given value of line is: ",zion)
+exit()
